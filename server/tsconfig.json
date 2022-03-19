@@ -1,0 +1,9 @@
+{
+  "extends": "@tsconfig/node16/tsconfig.json",
+  "compileOnSave": true,
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "alwaysStrict": true
+  },
+  "include": ["src/*", "src/routes/*", "src/middleware/*", "src/controllers/*", "src/config/*"]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio express app using MongoDB - Express - Vue - Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start server": "tsc && node ./backend/dist/server.js",
+    "dev server": "npx nodemon ./backend/src/server.ts"
+  },
+  "author": "Cody Backus",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.4"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.2",
+    "@types/express": "^4.17.13",
+    "@types/jsonwebtoken": "^8.5.8",
+    "@types/mongoose": "^5.11.97",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.7.0"
+  }
+}
