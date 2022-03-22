@@ -1,4 +1,5 @@
 import express from "express";
+import path from "path";
 import { errorHandler } from "./middleware/errorMiddleware";
 import { connectDB } from "./config/db";
 const dotenv = require("dotenv").config();
@@ -14,6 +15,10 @@ app.use(express.urlencoded({ extended: false }));
 
 app.use("/api/projects", require("./routes/projectRoutes"));
 app.use("/api/users", require("./routes/userRoutes"));
+
+app.get("/tilde", (req, res) => {
+  res.sendFile(path.join(__dirname, "public/tilde/index.html"));
+});
 
 app.use(errorHandler);
 

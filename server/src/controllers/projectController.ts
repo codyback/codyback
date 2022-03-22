@@ -2,7 +2,6 @@ import { Request, Response } from "express";
 import asyncHandler from "express-async-handler";
 import { Project } from "../models/projectModel";
 import mongoose from "mongoose";
-import { errorHandler } from "../middleware/errorMiddleware";
 
 /**
  * GET - /api/projects
