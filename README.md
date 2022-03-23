@@ -23,13 +23,14 @@ My name is Cody Backus, and I'm currently enrolled in Tech Elevator studying to 
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 🍕 &nbsp; Interested in participating in Hackathons and going to more meetups!
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/codyback).
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JavaScript.
 - 📫 &nbsp; How to reach me: codyback@outlook.com
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stacks and building fun and useful things.
-- 📰 &nbsp; Reading, whether that be fictional fantasy or about productive hacks like Atomic Habits.
+- 📰 &nbsp; Reading, whether that be a fictional fantasy or something more productive like Atomic Habits.
+- 🕹 &nbsp; I love to game in my free-time, particularly retro gaming lately.
 
 ## Technology & Tools
 
