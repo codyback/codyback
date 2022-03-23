@@ -13,7 +13,7 @@
 </h1>
 
 <div align="center">
-My name is Cody Backus, and I'm currently enrolled in Tech Elevator studying to become a Software Developer.
+My name is Cody Backus, and I'm currently enrolled in Tech Elevator studying to become a Software Developer.<br /> &nbsp; <br />
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
 </div>
 
