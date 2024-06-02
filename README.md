@@ -13,14 +13,14 @@
 </h1>
 
 <div align="center">
-My name is Cody Backus, and I'm currently enrolled in Tech Elevator studying to become a Software Developer.<br /> &nbsp; <br />
+My name is Cody Backus, and I'm a full-stack software engineer.<br /> &nbsp; <br />
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
 </div>
 
 ## About Me
 
-- 🛠 &nbsp; I’m currently enjoying solving various coding problems on [CodeWars](https://www.codewars.com)
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently enjoying working on side projects.
+- 🚀 &nbsp; I’m currently learning Go.
 - 🍕 &nbsp; Interested in participating in Hackathons and going to more meetups!
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/codyback).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JavaScript.
